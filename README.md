@@ -1,17 +1,17 @@
-<h1 align="center">I am chinenye Emokai🌸</h1>
+<h1 align="center">🌸Chinenye Emokai🌸</h1>
 <h3 align="center">A student developer</h3>
 
-- 🔭 I’m currently working on **A note summarizer**
+-I’m currently working on **A note summarizer**
+- I have created **<ul> <li>A guessing game in c</li> <li>A matching tiles games</li> <li>And more to come...</li></ul>**
+- I’m currently learning **java, react, SQL,**
 
-- 🌱 I’m currently learning **java, react, SQL,**
+-  Ask me about **ANYTHING....**
 
-- 💬 Ask me about **ANYTHING....**
+-  How to reach me **echinenyee@gmail.com**
 
-- 📫 How to reach me **echinenyee@gmail.com**
+- Know about my experiences **i worked at Excite as an internship**
 
-- 📄 Know about my experiences [i worked at Excite as an internship](i worked at Excite as an internship)
-
-- ⚡ Fun fact **i do not know the word "give up"**
+- Fun fact **i do not know the word "give up"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
